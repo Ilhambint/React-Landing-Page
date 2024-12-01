@@ -1,0 +1,17 @@
+.containerClient {
+    padding: 30px;
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.clientLogo {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 144px;
+    margin-right: 144px;
+}

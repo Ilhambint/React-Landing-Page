@@ -1,0 +1,43 @@
+.containerCus {
+    
+        background-color: #F5F7FA;
+        height: 390px;
+        display: flex;
+        align-items: center;
+        padding-left: 270px;
+    
+}
+
+.teksCus {
+    width: 748px;
+    height: 324px;
+    margin: 85px;
+}
+
+.teksCus p {
+    font-size: 16px;
+    font-family: 'inter', sans-serif;
+}
+
+.teksCus h3 {
+    font-size: 20;
+    color: #4CAF4F;
+}
+
+.teksCus .dragon {
+    font-size: 16px;
+    color: #89939E;
+}
+
+.cust {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cust button {
+    color: #4CAF4F;
+}
+
+.cust button img {
+    margin-left: 10px;
+}

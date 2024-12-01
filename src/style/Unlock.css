@@ -1,0 +1,30 @@
+.containerUn {
+    height: 599px;
+    display: flex;
+    align-items: center;
+    padding-left: 270px;
+}
+
+.textUn {
+    width: 661px;
+    height: 268px;
+    font-family: 'inter', sans-serif;
+}
+
+.textUn h2 {
+    width: 601px;
+    font-size: 40px;
+    margin: 10px;
+}
+
+.textUn p {
+    margin: 10px;
+}
+
+.textUn button {
+    background-color: #4CAF4F;
+    color: #ffffff;
+    border-radius: 4px;
+    margin: 10px;
+}
+

@@ -1,0 +1,44 @@
+.containerAch {
+    background-color: #F5F7FA;
+    height: 599px;
+    display: flex;
+    align-items: center;
+    padding-left: 270px;
+    height: 280px;
+}
+
+.containerAch .headingAch h2 {
+    width: 408px;
+    height: 88px;
+    font-size: 38px;
+}
+
+.headingAch h2 .hBlack {
+    color: black;
+}
+
+.headingAch h2 .hGreen {
+    color: #4CAF4F;
+}
+
+.count {
+    display: flex;
+    flex-wrap: wrap;
+    width: 540px;
+    height: 160px;
+    margin-left: 250px;
+}
+
+.count div  {
+    display: flex;
+    width: 255px;
+    height: 60px;
+}
+
+.count div  div {
+    display: flex;
+    flex-direction: column;
+    width: 255px;
+    height: 60px;
+}
+

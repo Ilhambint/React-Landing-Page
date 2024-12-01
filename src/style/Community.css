@@ -1,0 +1,44 @@
+.containerCom {
+    padding: 30px;
+}
+
+
+.teksCom {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.teksCom h2 {
+    font-size: 36px;
+    width: 542px;
+    height: 88px;
+    margin: 0;
+    text-align: center;
+}
+
+.teksCom p {
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.infoCom {
+    display: flex;
+    justify-content: center;
+}
+
+.infoCom h2 {
+    font-size: 36px;
+}
+
+.infoCom div {
+    text-align: center;
+    width: 299px;
+    height: 260px;
+    margin: 50px;
+    padding: 15px;
+    border: 2px solid;
+    border-radius: 8px;
+    border-color: #E8F5E9;
+    box-shadow: #E8F5E9;
+}

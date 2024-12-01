@@ -1,0 +1,33 @@
+
+.hero {
+    background-color: #F5F7FA;
+    height: 599px;
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+}
+
+.teksHero {
+    width: 657px;
+    height: 276px;
+}
+
+.teksHero H1 span {
+font-size: 64px;
+font-family: 'inter', sans-serif;
+}
+
+.teksHero h1 .hgreen {
+    color: #4CAF4F;
+}
+
+.teksHero button {
+    background-color: #4CAF4F;
+    color: #ffffff;
+}
+
+.hero-img {
+    margin-left: 296px;
+    width: 391px;
+    height: 407px;
+}

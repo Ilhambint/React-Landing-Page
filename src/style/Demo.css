@@ -1,0 +1,19 @@
+.containerDemo {
+    background-color: #F5F7FA;
+    display: flex;
+    justify-content: center; /* Tengah secara horizontal */
+    align-items: center; /* Tengah secara vertikal */
+    height: 336px;
+}
+/* Tambahkan gaya jika diperlukan untuk contentDemo */
+.contentDemo {
+    flex-direction: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+.contentDemo h1 {
+    width: 887px;
+    height: 32px;
+    font-size: 64px;
+}
